@@ -1,0 +1,129 @@
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.search{
+    width: 20%;
+    height: 1.4rem;
+}
+.container3{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.verticalLine {
+    border: none;
+    width: 2px;
+    height: 600px; /* Adjust as needed */
+    background-color: #000; /* You can change this color */
+    box-shadow: 2px 0 4px rgba(0, 0, 0, 0.2); /* Adjust the shadow as needed */
+    /* margin: 0 50px; Optional: Add margin to give space around the line */
+}
+.modalContent{
+    background-color: white;
+    border-radius: 1.5rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+.container4{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.8rem;
+}
+.prioritybtn{
+    display: flex;
+    gap: 0.7rem;
+}
+.container5{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.8rem;
+}
+.container6{
+    display: flex;
+    padding-bottom: 0.7rem;
+}
+.container7{
+    display: flex;
+   align-items: center;
+  padding-right: 0.5rem;
+}
+.hash{
+    color: red;
+}
+.title{
+    font-size: 1.2rem;
+}
+.formbar{
+    height: 1.5rem;
+}
+.high{
+    font-size: 1rem;
+    padding: 0.6rem;
+    border-radius: 1rem;
+    background: none;
+    box-shadow: none;
+    cursor: pointer;
+    border: 1px solid lightgrey;
+}
+.moderate{
+    font-size: 1rem;
+    padding: 0.6rem;
+    border-radius: 1rem;
+    background: none;
+    box-shadow: none;
+    cursor: pointer;
+    border: 1px solid lightgrey;
+}
+.low{
+    font-size: 1rem;
+    padding: 0.6rem;
+    border-radius: 1rem;
+    background: none;
+    box-shadow: none;
+    cursor: pointer;
+    border: 1px solid lightgrey;
+}
+.calendar{
+    font-size: 1rem;
+    padding: 0.6rem;
+    border-radius: 1rem;
+    background: none;
+    box-shadow: none;
+    cursor: pointer;
+    border: 1px solid lightgrey;
+}
+.closeButton{
+    font-size: 1rem;
+    padding: 0.6rem;
+    border-radius: 1rem;
+    background: none;
+    box-shadow: none;
+    cursor: pointer;
+    border: 1px solid lightgrey;
+}
+.active {
+    background-color: lightblue;
+}
+.calendarsty{
+    border-radius: 2rem;
+    padding: 1rem;
+}
+.Save{
+    font-size: 1rem;
+    padding: 0.6rem;
+    border-radius: 1rem;
+    background: none;
+    box-shadow: none;
+    cursor: pointer;
+    border: 1px solid lightgrey;
+}
+.container8{
+   display: flex;
+   gap: 1rem;
+}
